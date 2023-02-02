@@ -2,8 +2,11 @@ This is a real-time web scrapping project where images are downloaded and store
 
 The original URL is masked for security issues.
 
-In this project, the client URL consists of a list of years that are displayed. Each year company conducts many events. All these events are displayed as sub-links with "Event Names"
+In this project, the client URL consists of a list of years that are displayed. Each year company conducts many events. All these events are 
+displayed as sub-links with "Event Names"
 
-Once the user clicks on any event then all photos related to that particular event will be displayed. All those images need to be stored in the local file in a folder structure.
+Once the user clicks on any event then all photos related to that particular event will be displayed. All those images need to be stored in the local file 
+in a folder structure.
 
-Folders need to be created for each year and inside each year, folders need to be created for each event. Images need to be stored in the corresponding year and in the corresponding event folder.
+Folders need to be created for each year and inside each year, folders need to be created for each event. Images need to be stored in the corresponding 
+year and in the corresponding event folder.
